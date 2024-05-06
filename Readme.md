@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
   <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/Selenium-Advance.png" alt="Wahid | Selenium-Advance" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/Rest-Assured.png" alt="Jatin | AWS-DEV" width="100 px"/>
   <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
     <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
