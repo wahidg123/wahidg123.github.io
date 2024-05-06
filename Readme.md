@@ -27,8 +27,8 @@
   <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
   <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/Selenium-Advance.png" alt="Wahid | Selenium-Advance" width="200 px"/>
   <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/Rest-Assured.png" alt="Wahid | Rest-Assured" width="200 px"/>
-  <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/Slenium-Basics.png" alt="Wahid | Selenium-Basics" width="200 px"/>
-   <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/ocpjp.png" alt="Wahid | Generative-AI-for-Test-Automation" width="200 px"/>
+  <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/Selenium-Basics.png" alt="Wahid | Selenium-Basics" width="200 px"/>
+   <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/Generative-AI-for-Test-Automation.png" alt="Wahid | Generative-AI-for-Test-Automation" width="200 px"/>
     <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
      <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
 </p>
