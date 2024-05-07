@@ -96,22 +96,22 @@ in test coverage</b>
 
 ## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=wahidg123)](https://github.com/wahidg123)
+[![Wahid's github stats](https://github-readme-stats.vercel.app/api?username=wahidg123)](https://github.com/wahidg123)
 
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:wahidmohammad203@gmail.com">wahidmohammad203@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/wahid-mohammad-sdet//">
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/linkedin.svg" alt="Wahid | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+  <a href="https://instagram.com/waheed0777">
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/instagram.svg" alt="Wahid | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  <a href="https://api.whatsapp.com/send?phone=7019347012&text=Hello">
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/whatsapp.png" alt="Wahid | Whatsapp" width="21px"/>
   </a>
 </p>
   
