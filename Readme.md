@@ -63,18 +63,18 @@ efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% inc
 in test coverage</b>
 
 
-## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
+<!-- ## 💻 Framework WalkThrough
+[![Test Automation Framework Video](https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw) -->
 
 ## 💻 My Projects 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahidg123&repo=Linux-Zero-to-Hero)](https://github.com/wahidg123/Linux-Zero-to-Hero)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahidg123&repo=AutomationFramework)](https://github.com/wahidg123/AutomationFramework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahidg123&repo=AutomatiTutorialsNinja_Automation_Hybrid_FrameworkonFramework)](https://github.com/wahidg123/TutorialsNinja_Automation_Hybrid_Framework)
 
 [Automated Regression Testing Framework Java](https://github.com/wahidg123/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
 
-[Automated Regression Testing Framework Python](https://github.com/wahidg123/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
+<!-- [Automated Regression Testing Framework Python](https://github.com/wahidg123/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python. -->
 
 
 ## 💼 Technical Skills
