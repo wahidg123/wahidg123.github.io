@@ -70,7 +70,7 @@ in test coverage</b>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahidg123&repo=Linux-Zero-to-Hero)](https://github.com/wahidg123/Linux-Zero-to-Hero)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahidg123&repo=AutomatiTutorialsNinja_Automation_Hybrid_FrameworkonFramework)](https://github.com/wahidg123/TutorialsNinja_Automation_Hybrid_Framework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahidg123&repo=TutorialsNinja_Automation_Hybrid_Framework)](https://github.com/wahidg123/TutorialsNinja_Automation_Hybrid_Framework)
 
 [Automated Regression Testing Framework Java](https://github.com/wahidg123/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
 
